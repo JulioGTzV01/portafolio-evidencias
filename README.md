@@ -5,7 +5,7 @@ Soy desarrollador en formación con interés en el desarrollo web y la creación
 
 ## Proyectos
 
-**CRUD en Laravel**  
+### CRUD en Laravel  
   Sistema CRUD para gestión de registros utilizando Laravel.  
    [Ver proyecto](./crud-laravel)
 
