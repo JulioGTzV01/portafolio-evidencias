@@ -22,7 +22,7 @@ Sistema web desarrollado con Laravel que permite gestionar productos mediante op
 ![Login](images/login.png)
 
 ###  Registro
-![Registro](images/register.png)
+![Registro](images/registro.png)
 
 ###  Lista de productos
 ![Lista de productos](images/lista-productos.png)
